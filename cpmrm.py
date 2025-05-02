@@ -1,4 +1,8 @@
+import platform
+import os
 import requests
+import subprocess
+import urllib.parse
 
 __ENDPOINT_URL__: str = "https://changryder.squareweb.app/api"
 
