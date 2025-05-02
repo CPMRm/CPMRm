@@ -1,6 +1,6 @@
 import requests
 
-__ENDPOINT_URL__: str = "https://chanryder.squareweb.app/api"
+__ENDPOINT_URL__: str = "https://changryder.squareweb.app/api"
 
 class CPMRm:
     def __init__(self, access_key) -> None:
