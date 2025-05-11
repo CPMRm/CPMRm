@@ -5,7 +5,7 @@ import subprocess
 import urllib.parse
 import json
 
-__ENDPOINT_URL__: str = "enter your subdomain here"
+__ENDPOINT_URL__: str = "https://changryder.squareweb.app/api"
 
 class CPMRm:
     def __init__(self, access_key) -> None:
